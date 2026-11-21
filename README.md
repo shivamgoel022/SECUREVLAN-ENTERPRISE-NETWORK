@@ -17,9 +17,6 @@ A large company with customers, guests, sales staff, and management operating on
 *   **Native VLAN Hardening:** Changed to VLAN 999 to prevent VLAN-hopping attacks.
 
 ## 🗺️ Network Topology
-*(Upload your Packet Tracer topology screenshot to GitHub and link it here)*
-![Network Topology](topology.png)
-
 ## 🔐 Security Policy Matrix
 | Source → / Dest ↓ | Mgmt | Sales | Customer | Guest | Server | Internet |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
