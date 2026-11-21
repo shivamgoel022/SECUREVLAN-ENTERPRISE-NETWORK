@@ -15,8 +15,6 @@ A large company with customers, guests, sales staff, and management operating on
 *   **NAT/PAT:** Network Address Translation (overload) for internet access.
 *   **Extended ACLs:** Traffic filtering and security policy enforcement.
 *   **Native VLAN Hardening:** Changed to VLAN 999 to prevent VLAN-hopping attacks.
-
-## 🗺️ Network Topology
 ## 🔐 Security Policy Matrix
 | Source → / Dest ↓ | Mgmt | Sales | Customer | Guest | Server | Internet |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
